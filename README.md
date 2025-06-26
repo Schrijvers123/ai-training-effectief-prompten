@@ -10,7 +10,7 @@ Het doel is deelnemers te laten oefenen met het beoordelen van prompts en het ve
 Creative Commons Naamsvermelding – GeenAfgeleideWerken 4.0 (CC BY-ND 4.0)  
 [Meer info](https://creativecommons.org/licenses/by-nd/4.0/deed.nl)
 
-**Auteur:** Arjen Schrijvers  
+**Auteur:** Arjen Schrijvers
 **Organisatie:** SCHRIJVERS123.NL  
 **Contact:** info@schrijvers123.nl
 
